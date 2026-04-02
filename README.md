@@ -63,6 +63,5 @@ Usually bootloader on the low one, Linux shell on the high one.
 
 ## notes
 
-- Windows buffers serial data between opens — flush is mandatory
 - 3 second delay after signal detection lets the device settle
 - If everything shows 100%, you probably have a different problem
